@@ -1,0 +1,12 @@
+{
+  "hash": "4fdf0e7d9f72773b300d77c3555b1c28",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"\"\nformat:\n  html:\n    theme: cosmo\n    toc: false\n    code-fold: false\n    highlight-style: github\n    html-math-method: katex\nexecute:\n  eval: false\n  enabled: true\n  echo: true      # 添加这行以确保显示代码\n  output: true    # 添加这行以显示输出（如果有的话）\n  warning: false  # 隐藏警告\n  error: false    # 隐藏错误\njupyter: python3\n---\n\n\n\n\n\n# Lecture1-homework1\n\n\n\n\n{{< embed \"homework/Li Fenliang HW 1.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Lecture2-homework2\n\n\n\n\n{{< embed \"homework/Li Fenliang HW 2.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Lecture3-homework3-1\n\n\n\n\n{{< embed \"homework/Li Fenliang HW_3_1.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Lecture3-homework3-2\n\n\n\n\n{{< embed \"homework/Li Fenliang HW_3_2.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Lecture4-homework4\n\n\n\n\n{{< embed \"homework/Li Fenliang HW 4.ipynb\" echo=true >}}\n\n\n\n\n\n\n\n\n# Lecture5-homework5\n\n\n\n\n{{< embed \"homework/Li Fenliang HW 5.ipynb\" echo=true >}}\n\n",
+    "supporting": [
+      "homework_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

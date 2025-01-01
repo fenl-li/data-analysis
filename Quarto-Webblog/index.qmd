@@ -1,0 +1,9 @@
+---
+title: "Fenliang Li's course blog"
+---
+
+::: {.content-block}
+## Welcome to browse this website ^_^
+
+This website showcases my self introduction,  practice, and homework.
+:::

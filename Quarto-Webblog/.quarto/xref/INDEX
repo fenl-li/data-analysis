@@ -1,0 +1,186 @@
+{
+  "about.qmd": {
+    "about.html": "a82d0e8b"
+  },
+  "index.qmd": {
+    "index.html": "5ccc1eb2"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "cff6f64e"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "bc941ef0"
+  },
+  "homework/Li Fenliang HW 1.ipynb": {
+    "Li Fenliang HW 1.html": "acfb40cc",
+    "Li Fenliang HW 1.out.ipynb": "8a939e12",
+    "Li Fenliang HW 1-preview.html": "c08745ee"
+  },
+  "homework/Li Fenliang HW 2.ipynb": {
+    "Li Fenliang HW 2.html": "2695bfe0",
+    "Li Fenliang HW 2.out.ipynb": "35ad6902",
+    "Li Fenliang HW 2-preview.html": "3e2c8a9e"
+  },
+  "homework/Li Fenliang HW 4.ipynb": {
+    "Li Fenliang HW 4.html": "e7944ca9",
+    "Li Fenliang HW 4.out.ipynb": "357e73c8",
+    "Li Fenliang HW 4-preview.html": "1c9e8e36"
+  },
+  "homework/Li Fenliang HW 5.ipynb": {
+    "Li Fenliang HW 5.html": "06cc0107",
+    "Li Fenliang HW 5.out.ipynb": "d76714cb",
+    "Li Fenliang HW 5-preview.html": "4c43f575"
+  },
+  "homework/Li Fenliang HW_3_1.ipynb": {
+    "Li Fenliang HW_3_1.html": "ebfd78c8",
+    "Li Fenliang HW_3_1.out.ipynb": "de195949",
+    "Li Fenliang HW_3_1-preview.html": "a0511eb0"
+  },
+  "homework/Li Fenliang HW_3_2.ipynb": {
+    "Li Fenliang HW_3_2.html": "072138d9",
+    "Li Fenliang HW_3_2.out.ipynb": "07320216",
+    "Li Fenliang HW_3_2-preview.html": "3b131eff"
+  },
+  "homework.qmd": {
+    "homework.html": "1ff9dbc4"
+  },
+  "docs/homework/Li Fenliang HW 1.out.ipynb": {
+    "Li Fenliang HW 1.out.html": "638de3e6"
+  },
+  "docs/homework/Li Fenliang HW 2.out.ipynb": {
+    "Li Fenliang HW 2.out.html": "cda11704"
+  },
+  "docs/homework/Li Fenliang HW 4.out.ipynb": {
+    "Li Fenliang HW 4.out.html": "24f830a4"
+  },
+  "docs/homework/Li Fenliang HW 5.out.ipynb": {
+    "Li Fenliang HW 5.out.html": "8691d1d8"
+  },
+  "docs/homework/Li Fenliang HW_3_1.out.ipynb": {
+    "Li Fenliang HW_3_1.out.html": "4575c9dc"
+  },
+  "docs/homework/Li Fenliang HW_3_2.out.ipynb": {
+    "Li Fenliang HW_3_2.out.html": "aba9a93a"
+  },
+  "practice.qmd": {
+    "practice.html": "67853e7c"
+  },
+  "practice/practice 1.ipynb": {
+    "practice 1.out.ipynb": "72aaf218",
+    "practice 1-preview.html": "cb31d0db",
+    "practice 1.html": "b8eae3c6"
+  },
+  "docs/practice/practice 1.out.ipynb": {
+    "practice 1.out.html": "2dd1265d"
+  },
+  "practice/practice 2.ipynb": {
+    "practice 2.out.ipynb": "deafc446",
+    "practice 2-preview.html": "8a64df4d",
+    "practice 2.html": "5a07841b"
+  },
+  "practice/practice 2_2.ipynb": {
+    "practice 2_2.out.ipynb": "60f3cfc2",
+    "practice 2_2-preview.html": "7f1d48dd",
+    "practice 2_2.html": "5e7d4ffb"
+  },
+  "docs/practice/practice 2.out.ipynb": {
+    "practice 2.out.html": "d0e9b44c"
+  },
+  "practice/practice 3.ipynb": {
+    "practice 3.out.ipynb": "ca95209f",
+    "practice 3-preview.html": "b331c8cf",
+    "practice 3.html": "5fc7e076"
+  },
+  "docs/practice/practice 2_2.out.ipynb": {
+    "practice 2_2.out.html": "a55500bb"
+  },
+  "docs/practice/practice 3.out.ipynb": {
+    "practice 3.out.html": "f3550f4e"
+  },
+  "practice/practice 3_2.ipynb": {
+    "practice 3_2.html": "6d1e3672",
+    "practice 3_2.out.ipynb": "92b7e42c",
+    "practice 3_2-preview.html": "980d2fa2"
+  },
+  "practice/practice 3_3.ipynb": {
+    "practice 3_3.out.ipynb": "7bb7c2e9",
+    "practice 3_3-preview.html": "89ed6113",
+    "practice 3_3.html": "ba62b773"
+  },
+  "practice/practice 4.ipynb": {
+    "practice 4.out.ipynb": "9b796fbd",
+    "practice 4-preview.html": "bd04380c",
+    "practice 4.html": "075e2c79"
+  },
+  "labs.qmd": {
+    "labs.html": "ccc1ee83"
+  },
+  "lab/01Chipotle-Exercises-with-solutions.ipynb": {
+    "01Chipotle-Exercises-with-solutions.out.ipynb": "23d51d5b",
+    "01Chipotle-Exercises-with-solutions-preview.html": "1e837aac",
+    "01Chipotle-Exercises-with-solutions.html": "93578f1c"
+  },
+  "lab/01Occupation-Exercises-with-solutions.ipynb": {
+    "01Occupation-Exercises-with-solutions.out.ipynb": "042dad57",
+    "01Occupation-Exercises-with-solutions-preview.html": "90667542",
+    "01Occupation-Exercises-with-solutions.html": "5971ca2f"
+  },
+  "lab/01World-Food-Facts-Exercises-with-solutions.ipynb": {
+    "01World-Food-Facts-Exercises-with-solutions.out.ipynb": "3a15bd27",
+    "01World-Food-Facts-Exercises-with-solutions-preview.html": "01ad01a5",
+    "01World-Food-Facts-Exercises-with-solutions.html": "1bf17408"
+  },
+  "lab/02Chipotle-Exercises-with-solutions.ipynb": {
+    "02Chipotle-Exercises-with-solutions.out.ipynb": "abc0fcc1",
+    "02Chipotle-Exercises-with-solutions-preview.html": "5fbdf71c",
+    "02Chipotle-Exercises-with-solutions.html": "d67fb318"
+  },
+  "lab/02Euro12-Exercises-with-solutions.ipynb": {
+    "02Euro12-Exercises-with-solutions.out.ipynb": "86882715",
+    "02Euro12-Exercises-with-solutions-preview.html": "eba25b61",
+    "02Euro12-Exercises-with-solutions.html": "d4aa917c"
+  },
+  "lab/03Chipotle-Exercises-with-solutions(1).ipynb": {
+    "03Chipotle-Exercises-with-solutions(1).out.ipynb": "447d94dd",
+    "03Chipotle-Exercises-with-solutions(1)-preview.html": "fe43871a",
+    "03Chipotle-Exercises-with-solutions(1).html": "773b3034"
+  },
+  "lab/03Scores-Exercises-with-solutions.ipynb": {
+    "03Scores-Exercises-with-solutions.out.ipynb": "3bc85556",
+    "03Scores-Exercises-with-solutions-preview.html": "271eead4",
+    "03Scores-Exercises-with-solutions.html": "aae83bf6"
+  },
+  "docs/practice/practice 3_2.out.ipynb": {
+    "practice 3_2.out.html": "b1c5d3b0"
+  },
+  "docs/practice/practice 3_3.out.ipynb": {
+    "practice 3_3.out.html": "7b070c90"
+  },
+  "docs/practice/practice 4.out.ipynb": {
+    "practice 4.out.html": "36bc5e75"
+  },
+  "docs/lab/01Chipotle-Exercises-with-solutions.out.ipynb": {
+    "01Chipotle-Exercises-with-solutions.out.html": "d2948d71"
+  },
+  "docs/lab/01Occupation-Exercises-with-solutions.out.ipynb": {
+    "01Occupation-Exercises-with-solutions.out.html": "a40195ce"
+  },
+  "docs/lab/01World-Food-Facts-Exercises-with-solutions.out.ipynb": {
+    "01World-Food-Facts-Exercises-with-solutions.out.html": "e8967023"
+  },
+  "docs/lab/02Chipotle-Exercises-with-solutions.out.ipynb": {
+    "02Chipotle-Exercises-with-solutions.out.html": "77bd4cf6"
+  },
+  "docs/lab/02Euro12-Exercises-with-solutions.out.ipynb": {
+    "02Euro12-Exercises-with-solutions.out.html": "b3efd804"
+  },
+  "docs/lab/03Chipotle-Exercises-with-solutions(1).out.ipynb": {
+    "03Chipotle-Exercises-with-solutions(1).out.html": "4b7a2b06"
+  },
+  "docs/lab/03Scores-Exercises-with-solutions.out.ipynb": {
+    "03Scores-Exercises-with-solutions.out.html": "bb247c47"
+  },
+  "lab.qmd": {
+    "lab.html": "525e6b01"
+  }
+}

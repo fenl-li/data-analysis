@@ -1,0 +1,12 @@
+{
+  "hash": "281fbf5cacbefa9c5b8b5d08ae26a14e",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"\"\nformat:\n  html:\n    theme: cosmo\n    toc: false\n    code-fold: false\n    highlight-style: github\n    html-math-method: katex\nexecute:\n  eval: false\n  enabled: true\n  echo: true      # 添加这行以确保显示代码\n  output: true    # 添加这行以显示输出（如果有的话）\n  warning: false  # 隐藏警告\n  error: false    # 隐藏错误\njupyter: python3\n---\n\n\n\n\n# Practice 1\n\n\n\n{{< embed \"practice/practice 1.ipynb\" echo=true >}}\n\n\n\n\n\n\n# Practice 2-1\n\n\n\n{{< embed \"practice/practice 2.ipynb\" echo=true >}}\n\n\n\n\n\n\n# Practice 2-2\n\n\n\n{{< embed \"practice/practice 2_2.ipynb\" echo=true >}}\n\n\n\n\n\n\n# Practice 3-1\n\n\n\n{{< embed \"practice/practice 3.ipynb\" echo=true >}}\n\n\n\n\n\n\n# Practice 3-2\n\n\n\n{{< embed \"practice/practice 3_2.ipynb\" echo=true >}}\n\n\n\n\n\n\n# Practice 3-3\n\n\n\n{{< embed \"practice/practice 3_3.ipynb\" echo=true >}}\n\n\n\n\n\n\n# Practice 4\n\n\n\n{{< embed \"practice/practice 4.ipynb\" echo=true >}}\n\n",
+    "supporting": [
+      "practice_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
